@@ -1,0 +1,13 @@
+names:
+- helmet-detection
+- no_helm
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: helmet-detection-ylq7r
+  url: https://universe.roboflow.com/gilams-workspace/helmet-detection-ylq7r/dataset/1
+  version: 1
+  workspace: gilams-workspace
+test: ../test/images
+train: ../train/images
+val: ../train/images
